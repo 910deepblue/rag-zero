@@ -1,0 +1,15 @@
+# --- 核心 ---
+numpy
+sentence-transformers>=3.0
+faiss-cpu
+pymupdf
+openai
+python-dotenv
+tqdm
+# --- 文档格式 ---
+python-docx
+# --- 第 7 章检索优化才需要 ---
+jieba
+rank_bm25
+# --- 第 8 章做界面才需要 ---
+# streamlit
